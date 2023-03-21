@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'YuGiOh_ITCStoneSerifLTItalic';
+    src: url('YuGiOh_ITCStoneSerifLTItalic.eot');
+    src: url('YuGiOh_ITCStoneSerifLTItalic.eot') format('embedded-opentype'),
+         url('YuGiOh_ITCStoneSerifLTItalic.woff2') format('woff2'),
+         url('YuGiOh_ITCStoneSerifLTItalic.woff') format('woff'),
+         url('YuGiOh_ITCStoneSerifLTItalic.ttf') format('truetype'),
+         url('YuGiOh_ITCStoneSerifLTItalic.svg#YuGiOh_ITCStoneSerifLTItalic') format('svg');
+}
