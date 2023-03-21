@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'YuGiOh_ITCStoneSerifSmallCapsBold';
+    src: url('YuGiOh_ITCStoneSerifSmallCapsBold.eot');
+    src: url('YuGiOh_ITCStoneSerifSmallCapsBold.eot') format('embedded-opentype'),
+         url('YuGiOh_ITCStoneSerifSmallCapsBold.woff2') format('woff2'),
+         url('YuGiOh_ITCStoneSerifSmallCapsBold.woff') format('woff'),
+         url('YuGiOh_ITCStoneSerifSmallCapsBold.ttf') format('truetype'),
+         url('YuGiOh_ITCStoneSerifSmallCapsBold.svg#YuGiOh_ITCStoneSerifSmallCapsBold') format('svg');
+}

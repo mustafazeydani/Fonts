@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'YuGiOh_MatrixBook';
+    src: url('YuGiOh_MatrixBook.eot');
+    src: url('YuGiOh_MatrixBook.eot') format('embedded-opentype'),
+         url('YuGiOh_MatrixBook.woff2') format('woff2'),
+         url('YuGiOh_MatrixBook.woff') format('woff'),
+         url('YuGiOh_MatrixBook.ttf') format('truetype'),
+         url('YuGiOh_MatrixBook.svg#YuGiOh_MatrixBook') format('svg');
+}
