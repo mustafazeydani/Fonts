@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'EurostileCandyW01Semibold';
+    src: url('EurostileCandyW01Semibold.eot');
+    src: url('EurostileCandyW01Semibold.eot') format('embedded-opentype'),
+         url('EurostileCandyW01Semibold.woff2') format('woff2'),
+         url('EurostileCandyW01Semibold.woff') format('woff'),
+         url('EurostileCandyW01Semibold.ttf') format('truetype'),
+         url('EurostileCandyW01Semibold.svg#EurostileCandyW01Semibold') format('svg');
+}
